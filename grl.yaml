@@ -1,0 +1,11 @@
+homepage: null
+bugtracker: http://www.github.com/jfdm/idris-grl/issues
+packages:
+- containers
+- graphviz
+name: grl
+version: '0.1'
+brief: Goal Requirements Language
+sourceloc:
+  git: git@github.com:jfdm/idris-grl.git
+license: BSD3 but see LICENSE for more information

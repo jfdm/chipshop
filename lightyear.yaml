@@ -1,0 +1,10 @@
+homepage: null
+bugtracker: http://www.github.com/ziman/lightyear/issues
+packages:
+- effects
+name: lightyear
+version: null
+brief: null
+sourceloc:
+  git: git@github.com:ziman/lightyear.git
+license: null

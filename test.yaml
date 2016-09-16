@@ -1,0 +1,10 @@
+homepage: null
+bugtracker: http://www.github.com/jfdm/idris-testing/issues
+packages:
+- effects
+name: test
+version: '0.1'
+brief: Simple Testing Library.
+sourceloc:
+  git: git@github.com:jfdm/idris-testing.git
+license: BSD3 but see LICENSE for more information

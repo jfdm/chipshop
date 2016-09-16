@@ -1,0 +1,12 @@
+homepage: null
+bugtracker: http://www.github.com/jfdm/idris-testing/issues
+packages:
+- lightyear
+- effects
+- test
+name: testparse
+version: '0.1'
+brief: Simple Testing Library for parsers.
+sourceloc:
+  git: git@github.com:jfdm/idris-testing.git
+license: BSD3 but see LICENSE for more information
