@@ -9,5 +9,5 @@ name: xml
 version: '0.1'
 brief: XML in Idris
 sourceloc:
-  git: git@github.com:jfdm/idris-xml.git
+  git: https://github.com/jfdm/idris-xml.git
 license: BSD3 but see LICENSE for more information

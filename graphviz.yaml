@@ -6,5 +6,5 @@ name: graphviz
 version: '0.1'
 brief: Simple Graphviz helper.
 sourceloc:
-  git: git@github.com:jfdm/idris-graphviz.git
+  git: https://github.com/jfdm/idris-graphviz.git
 license: BSD3 but see LICENSE for more information

@@ -9,5 +9,5 @@ name: edda
 version: '0.1'
 brief: A simple pandoc clone
 sourceloc:
-  git: git@github.com:jfdm/edda.git
+  git: https://github.com/jfdm/edda.git
 license: BSD3 but see LICENSE for more information

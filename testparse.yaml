@@ -8,5 +8,5 @@ name: testparse
 version: '0.1'
 brief: Simple Testing Library for parsers.
 sourceloc:
-  git: git@github.com:jfdm/idris-testing.git
+  git: https://github.com/jfdm/idris-testing.git
 license: BSD3 but see LICENSE for more information

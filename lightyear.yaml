@@ -6,5 +6,5 @@ name: lightyear
 version: null
 brief: null
 sourceloc:
-  git: git@github.com:ziman/lightyear.git
+  git: https://github.com/ziman/lightyear.git
 license: null
