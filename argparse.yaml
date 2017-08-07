@@ -1,11 +1,11 @@
 homepage: null
 bugtracker: http://www.github.com/jfdm/idris-argparse/issues
 packages:
-- lightyear
+- contrib
 - test
 name: argparse
-version: '0.1'
-brief: A simple argument parser.
+version: null
+brief: ArgParse
 sourceloc:
-  git: https://github.com/jfdm/idris-argparse.git
+  git: git@github.com:jfdm/idris-argparse.git
 license: BSD3 but see LICENSE for more information
