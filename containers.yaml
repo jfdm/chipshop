@@ -2,7 +2,7 @@ homepage: null
 bugtracker: http://www.github.com/jfdm/idris-containers/issues
 packages:
 - effects
-- test
+- contrib
 name: containers
 version: '0.1'
 brief: Containers.
